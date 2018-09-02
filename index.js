@@ -1,4 +1,4 @@
-var recipe = {chocolate: 1}
+var recipes = {chocolate: 1}
 
 
 
